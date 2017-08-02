@@ -28,7 +28,7 @@ console.log('decoded: ' + decoded);
 console.log('input and output matched: '+ (decoded === exampleNumber?1:0));
 
 ```
-Basic usage PHP:
+Basic usage PHP  [DEMO](http://codepad.org/EJwgseGZ):
 ```php
 
 $preferredCoder = new NumberEncoder( NumberEncoder::$maps['b62'] );
